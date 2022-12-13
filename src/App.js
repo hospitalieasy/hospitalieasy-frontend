@@ -26,6 +26,7 @@ function App() {
   const [userIndex, setUserIndex] = useLocalStorage("user-index", null);
 
   /* BEFORE API TEST */
+  /* CHECK POINT 13-DECEMBER-2022 */
 
   return (
     <BrowserRouter>
